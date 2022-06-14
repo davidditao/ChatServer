@@ -30,7 +30,13 @@ CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE
 CMAKE_MAKE_PROGRAM:FILEPATH=CMAKE_MAKE_PROGRAM-NOTFOUND
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=main
+CMAKE_PROJECT_NAME:STATIC=chat
+
+//Value Computed by CMake
+chat_BINARY_DIR:STATIC=/home/zhuyukuan/my_code/mychat/build
+
+//Value Computed by CMake
+chat_SOURCE_DIR:STATIC=/home/zhuyukuan/my_code/mychat
 
 //Value Computed by CMake
 main_BINARY_DIR:STATIC=/home/zhuyukuan/my_code/mychat/build
