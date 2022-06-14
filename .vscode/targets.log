@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Jun 14 16:08:05 2022
+# Make data base, printed on Tue Jun 14 17:25:58 2022
 
 # Variables
 
@@ -125,7 +125,7 @@ VSCODE_CODE_CACHE_PATH = /home/zhuyukuan/.config/Code/CachedData/da15b6fd3ef8564
 # environment
 LOGNAME = zhuyukuan
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 ELECTRON_NO_ATTACH_CONSOLE = 1
 # environment
@@ -153,7 +153,7 @@ SHLVL = 1
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-269f79b6-052a-4b2b-91ce-56f5d4391976.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-cf257c23-d57f-429a-b36c-267fed5c952f.sock
 # environment
 XDG_SESSION_ID = 2
 # environment
@@ -180,7 +180,6 @@ MAKEFLAGS = pqrR
 MFLAGS = -pqrR
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
- 
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # environment
@@ -202,11 +201,11 @@ LC_ALL = C
 # environment
 QT4_IM_MODULE = xim
 # environment
-GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/e6949735_b778_4ee1_80e1_ec4e850f47e4
+GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/9efcc34f_0966_4d84_becc_44ccf8cd9bb2
 # automatic
 ^F = $(notdir $^)
 # environment
-GNOME_TERMINAL_SERVICE = :1.114
+GNOME_TERMINAL_SERVICE = :1.739
 # default
 SUFFIXES := 
 # environment
@@ -222,7 +221,7 @@ LANG = C
 # environment
 TERM = xterm-256color
 # environment
-VSCODE_PID = 4608
+VSCODE_PID = 15239
 # variable set hash-table stats:
 # Load=105/1024=10%, Rehash=0, Collisions=15/127=12%
 
@@ -232,9 +231,9 @@ VSCODE_PID = 4608
 
 # Directories
 
-# . (device 2066, inode 3932510): 5 files, no impossibilities.
+# . (device 2066, inode 3932510): 8 files, no impossibilities.
 
-# 5 files, no impossibilities in 1 directories.
+# 8 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -281,15 +280,16 @@ GNUmakefile:
 # VPATH Search Paths
 
 # No 'vpath' search paths.
+ 
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 13 / storage = 117 B / avg = 9 B
-# current buf: size = 8162 B / used = 117 B / count = 13 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 16 / storage = 143 B / avg = 8 B
+# current buf: size = 8162 B / used = 143 B / count = 16 / avg = 8 B
 
-# strcache performance: lookups = 16 / hit rate = 18%
+# strcache performance: lookups = 19 / hit rate = 15%
 # hash-table stats:
-# Load=13/8192=0%, Rehash=0, Collisions=1/16=6%
-# Finished Make data base on Tue Jun 14 16:08:05 2022
+# Load=16/8192=0%, Rehash=0, Collisions=1/19=5%
+# Finished Make data base on Tue Jun 14 17:25:58 2022
 
  

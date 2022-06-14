@@ -37,7 +37,7 @@ public:
 		_server.setThreadNum(4);
 	
 	}
-
+	
 	// #6 开启事件循环
 	void start(){	
 		_server.start();
