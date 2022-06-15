@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zhuyukuan/my_code/mychat/testmuduo/muduo_server.cpp" "/home/zhuyukuan/my_code/mychat/testmuduo/build/CMakeFiles/server.dir/muduo_server.cpp.o"
+  "/home/zhuyukuan/my_code/mychat/test/testmuduo/muduo_server.cpp" "/home/zhuyukuan/my_code/mychat/test/testmuduo/build/CMakeFiles/server.dir/muduo_server.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

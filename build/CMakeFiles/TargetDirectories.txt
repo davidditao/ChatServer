@@ -1,0 +1,7 @@
+/home/zhuyukuan/my_code/mychat/build/CMakeFiles/rebuild_cache.dir
+/home/zhuyukuan/my_code/mychat/build/CMakeFiles/edit_cache.dir
+/home/zhuyukuan/my_code/mychat/build/src/CMakeFiles/rebuild_cache.dir
+/home/zhuyukuan/my_code/mychat/build/src/CMakeFiles/edit_cache.dir
+/home/zhuyukuan/my_code/mychat/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/zhuyukuan/my_code/mychat/build/src/server/CMakeFiles/ChatServer.dir
+/home/zhuyukuan/my_code/mychat/build/src/server/CMakeFiles/edit_cache.dir

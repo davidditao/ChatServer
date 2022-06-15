@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/zhuyukuan/my_code/mychat/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server  -g -g   -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/chatserver.cpp",
+  "file": "/home/zhuyukuan/my_code/mychat/src/server/chatserver.cpp"
+},
+
+{
+  "directory": "/home/zhuyukuan/my_code/mychat/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server  -g -g   -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/main.cpp",
+  "file": "/home/zhuyukuan/my_code/mychat/src/server/main.cpp"
+}
+]
