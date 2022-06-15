@@ -1,19 +1,25 @@
 [
 {
   "directory": "/home/zhuyukuan/my_code/mychat/build",
-  "command": "/usr/bin/g++   -I../include -I../include/server -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/chatserver.cpp",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/chatserver.cpp",
   "file": "/home/zhuyukuan/my_code/mychat/src/server/chatserver.cpp"
 },
 
 {
   "directory": "/home/zhuyukuan/my_code/mychat/build",
-  "command": "/usr/bin/g++   -I../include -I../include/server -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/chatservice.cpp",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/chatservice.cpp",
   "file": "/home/zhuyukuan/my_code/mychat/src/server/chatservice.cpp"
 },
 
 {
   "directory": "/home/zhuyukuan/my_code/mychat/build",
-  "command": "/usr/bin/g++   -I../include -I../include/server -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/main.cpp",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/main.cpp",
   "file": "/home/zhuyukuan/my_code/mychat/src/server/main.cpp"
+},
+
+{
+  "directory": "/home/zhuyukuan/my_code/mychat/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/zhuyukuan/my_code/mychat/src/server/db/db.cpp",
+  "file": "/home/zhuyukuan/my_code/mychat/src/server/db/db.cpp"
 }
 ]
